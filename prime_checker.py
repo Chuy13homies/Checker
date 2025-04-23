@@ -1,4 +1,5 @@
 # Prime Number Checker - Check if a number is prime
+import time
 
 def is_prime(n):
     """Check if the input number n is a prime number."""
