@@ -1,6 +1,4 @@
 # 🔍 Prime Number Checker
-Check if a number is prime.
-
 This Python script allows the user to check whether a given number is a prime number.
 
 ## 🚀 Features
