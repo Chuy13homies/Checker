@@ -1,4 +1,6 @@
-# Prime Number Checker - Check if a number is prime
+# Prime Number Checker 
+# Check if a number is prime
+import pandas
 import time
 
 def is_prime(n):
