@@ -9,7 +9,7 @@ This Python script allows the user to check whether a given number is a prime nu
 
 ## 🧪 What is a Prime Number?
 
-A **prime number** is a natural number greater than 1 that has no positive divisors other than 1 and itself. Examples include: 2, 3, 5, 7, 11, 13...
+A **prime number** is a natural number greater than 1 that has no positive divisors other than 1 and itself. Examples include: 2, 3, 5, 7, 11, 13, 14, 15...
 
 ## Example Output
 
