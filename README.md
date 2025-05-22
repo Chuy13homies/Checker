@@ -14,6 +14,6 @@ A **prime number** is a natural number greater than 1 that has no positive divis
 ## Example Output
 
 ```Prime Number Checker
-Enter a number to check: 29
-29 is a prime number.
+Enter a number to check: 30
+30 is a prime a number.
 ```
