@@ -4,7 +4,7 @@ import pandas
 import time
 
 def is_prime(n):
-    """Check if the input number n is a prime number."""
+    """Check if the input number n is a prime number. Prime Number Checker"""
     if n <= 1:
         return False
     if n == 2:
